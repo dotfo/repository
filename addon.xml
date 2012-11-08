@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dotfo" name="dotfo XBMC Addons" version="1.0.0" provider-name="dotfo">
+    <extension point="xbmc.addon.repository" name="dotfo XBMC Addons">
+        <info compressed="false">https://raw.github.com/dotfo/repository/master/addons.xml</info>
+        <checksum>https://raw.github.com/dotfo/repository/master/addons.xml.md5</checksum>
+        <datadir zip="false">https://raw.github.com/dotfo/repository/master</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>dotfo XBMC Addons</summary>
+        <description>This repository contains addons.</description>
+        <disclaimer>The owners pay "kringvarpsgjald".</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
