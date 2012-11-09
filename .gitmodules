@@ -1,0 +1,3 @@
+[submodule "plugin.video.kringvarp"]
+	path = plugin.video.kringvarp
+	url = git@github.com:dotfo/plugin.video.kringvarp.git
